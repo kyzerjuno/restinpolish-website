@@ -292,6 +292,21 @@ h2 {
   border-color: var(--secondary-color);
 }
 
+footer {
+  background-color: var(--primary-color);
+  padding: 25px;
+  text-align: center;
+  color: var(--text-color);
+  box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.5);
+}
+
+footer p {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+
+
 
 
 
